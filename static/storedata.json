@@ -387,21 +387,5 @@
     "starrating": 3,
     "price": 190.0,
     "img": "10.jpg"
-  },
-  {
-    "id": "f92c7d89-78e9-4616-8876-e0088c53483e",
-    "color": "Pink",
-    "description": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
-    "gender": "Male",
-    "name": "Silas Cornwell",
-    "review": "architect collaborative initiatives",
-    "starrating": 3,
-    "price": 35.99,
-    "sizes": [
-      "Small",
-      "Medium",
-      "Large"
-    ],
-    "img": "11.png"
   }
 ]
